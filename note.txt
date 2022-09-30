@@ -1,0 +1,8 @@
+what is DOM?
+ans: 
+    Structured representation of HTML documents. Allows JavaScript to access HTML Elements and styles to manipulate them.
+
+Is DOM parts of JavaScript?
+ans: 
+    JavaScript is actually dialect of the EcmaScript. and all these DOM related staffs not in there. DOM and DOM methods are actually parts of WEB APIs. WEB APIs are like  libraries that browser implement 
+    and that we can access from our JavaScript code.
